@@ -9,7 +9,6 @@ import constants
 
 def main():
     # This function calculates the circumference of a circle
-    constants.TAU
 
     # input
     radius = int(input("Enter the length of the radius (mm): "))
